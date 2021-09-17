@@ -1,0 +1,12 @@
+"What parts of the game have you been working on?"
+All of it.
+
+"What did you find difficult?"
+Making the chickens move properly around the map and also making the chickens shoot. Also the add chicken feature was difficult because you need the prefabs and the actual chickens that
+are going to spawn with their given name and also creating a text in the menu so that you can see that the chicken is actually there. There is more and it took a few tries
+but it works. The most difficult thing for me was probably the field of view. I followed a tutorial for it but it was a bit messed up but I eventually took the things I 
+understood from it and I made something that is fine. 
+
+"What did you find easy?"
+Making the map was pretty easy since I used a map from another game for reference (wow shocker), but it's time consuming (took me like 5 hours). Making the minimap and things
+on it was pretty easy as well, the UI in general except that thing I mentioned earlier was easy.
